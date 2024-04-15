@@ -2,26 +2,26 @@
   {
     "date": "2022-01-06",
     "temperatureC": 1,
-    "summary": "Freezing"
+    "summary": "Zimno"
   },
   {
     "date": "2022-01-07",
     "temperatureC": 14,
-    "summary": "Bracing"
+    "summary": "JEST OK"
   },
   {
     "date": "2022-01-08",
     "temperatureC": -13,
-    "summary": "Freezing"
+    "summary": "PIźDZI NIEMIŁOSIERNIE"
   },
   {
     "date": "2022-01-09",
-    "temperatureC": -16,
-    "summary": "Balmy"
+    "temperatureC": 35,
+    "summary": "UPAŁ ŻE POT SIĘ LEJE"
   },
   {
     "date": "2022-01-10",
-    "temperatureC": -2,
-    "summary": "Chilly"
+    "temperatureC": 20,
+    "summary": "DOBRZE"
   }
 ]
